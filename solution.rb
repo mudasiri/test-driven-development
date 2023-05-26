@@ -1,3 +1,4 @@
+# :nodoc:
 class Solver
   def factorial(number)
     raise ArgumentError, 'number must be a non-negative integer' if number.negative?
@@ -20,4 +21,4 @@ class Solver
       integer.to_s
     end
   end
-end  
+end
