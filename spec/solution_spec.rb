@@ -54,6 +54,6 @@ describe Solver do
       it 'returns that integer string' do
         expect(solver.fizzbuzz(7)).to eq('7')
       end
-    end
+    end,
   end
 end
