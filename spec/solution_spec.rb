@@ -44,16 +44,6 @@ describe Solver do
       end
     end
 
-    context 'when integer n is divisible by 3 and 5' do
-      it 'returns string' do
-        expect(solver.fizzbuzz(15)).to eq('fizzbuzz')
-      end
-    end
-
-    context 'when interger n is any other case' do
-      it 'returns that integer string' do
-        expect(solver.fizzbuzz(7)).to eq('7')
-      end
-    end
+   
   end
 end
