@@ -169,8 +169,6 @@ Example:
 
 ## 👥 Author(s) <a name="authors"></a>
 
-> Author info is below.
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/mudasiri)
@@ -179,9 +177,10 @@ Example:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/abenaTenkorang)
-- Twitter: [@twitterhandle](https://twitter.com/abenaTenkorang)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/abenaTenkorang)
+- GitHub: [@AbenaTenkorang](https://github.com/abenaTenkorang)
+- Twitter: [@Abi1_boateng](https://twitter.com/Abi1_boateng)
+- LinkedIn: [Abigail Boateng](https://www.linkedin.com/in/abigail-gyamfuaa-boateng/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,7 +188,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add_ui_Feature]**
 
